@@ -1,0 +1,17 @@
+.storyfiletree {
+	width: 100%;
+	height: 400px;
+	border-top: solid 1px #BBB;
+	border-left: solid 1px #BBB;
+	border-bottom: solid 1px #FFF;
+	border-right: solid 1px #FFF;
+	background: #FFF;
+	overflow: scroll;
+	padding: 5px;
+}
+#storyDetail{
+	width: 100%;
+}
+#sortable  { list-style-type: none; margin: 0; padding: 0; }
+#sortable  li { margin: 0 3px 3px 3px; padding: 0.4em; padding-left: 1.5em; font-size: 1em; height: 15px; }
+#sortable  li span { position: absolute; margin-left: -1.3em; }
